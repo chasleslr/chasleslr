@@ -40,4 +40,4 @@ at Harvard.
 
 ### `> echo $CONTACT`
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/charleslariviere1/).
+Reach out to me over on my [LinkedIn](https://www.linkedin.com/in/charleslariviere1/) profile.
