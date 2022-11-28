@@ -21,6 +21,7 @@ at Harvard.
 ![Spark](https://img.shields.io/badge/spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
 ![Ray](https://img.shields.io/badge/ray-028CF0.svg?style=flat&logo=ray&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white)
+![celery](https://img.shields.io/badge/celery-37814A.svg?style=flat&logo=celery&logoColor=white)
 
 ##### `> which data-store`
 
