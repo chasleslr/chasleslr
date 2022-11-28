@@ -6,28 +6,30 @@ at Harvard.
 
 ### `> which [TECH]`
 
-#### `> which languages`
+#### `> which language`
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
 
-#### `> which frameworks`
+#### `> which framework`
 
 ![Dagster](https://img.shields.io/badge/dagster-4F43DD.svg?style=flat&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Spark](https://img.shields.io/badge/spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
+![Ray](https://img.shields.io/badge/ray-028CF0.svg?style=flat&logo=ray&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white)
 
-
-#### `> which data-platforms`
+#### `> which data-store`
 
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571.svg?style=flat&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/neo4j-4581C3.svg?style=flat&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=flat&logo=redis&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8.svg?style=flat&logo=snowflake&logoColor=white)
-![Spark](https://img.shields.io/badge/spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
 
 #### `> which infrastructure`
 
