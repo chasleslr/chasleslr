@@ -6,13 +6,13 @@ at Harvard.
 
 ### `> which [TECH]`
 
-#### `> which language`
+##### `> which language`
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
 
-#### `> which framework`
+##### `> which framework`
 
 ![Dagster](https://img.shields.io/badge/dagster-4F43DD.svg?style=flat&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -22,7 +22,7 @@ at Harvard.
 ![Ray](https://img.shields.io/badge/ray-028CF0.svg?style=flat&logo=ray&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white)
 
-#### `> which data-store`
+##### `> which data-store`
 
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571.svg?style=flat&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white)
@@ -31,7 +31,7 @@ at Harvard.
 ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8.svg?style=flat&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
 
-#### `> which infrastructure`
+##### `> which infrastructure`
 
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-7B42BC.svg?style=flat&logo=Terraform&logoColor=white)
