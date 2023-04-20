@@ -10,16 +10,17 @@ at Harvard.
 ##### `> which language`
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
 ##### `> which framework`
 
+![Spark](https://img.shields.io/badge/spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Dagster](https://img.shields.io/badge/dagster-4F43DD.svg?style=flat&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Spark](https://img.shields.io/badge/spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
 ![Ray](https://img.shields.io/badge/ray-028CF0.svg?style=flat&logo=ray&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white)
 ![celery](https://img.shields.io/badge/celery-37814A.svg?style=flat&logo=celery&logoColor=white)
