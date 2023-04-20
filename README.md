@@ -1,7 +1,8 @@
 ### `> whoami`
 
-👋 Hey, there! I'm Charles, a Machine Learning professional from Quebec, Canada 🇨🇦. I'm currently working
-at 🏀 [Dribbble](https://dribbble.com) where I lead Data/ML. I'm also working towards a Master’s degree in Data Science
+👋 Hey, there! I'm Charles, a Machine Learning professional from Quebec, Canada 🇨🇦. 
+
+I'm currently working at [Avidbots](https://avidbots.com) where I lead the Machine Learning Platform team. Previously at 🏀 [Dribbble](https://dribbble.com) where I lead Data/ML. I'm also working towards a Master’s degree in Data Science
 at Harvard.
 
 ### `> which [TECH]`
