@@ -12,19 +12,21 @@ at Harvard.
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-007acc.svg?style=flat&logo=typescript&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
 ##### `> which framework`
 
 ![Spark](https://img.shields.io/badge/spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Dagster](https://img.shields.io/badge/dagster-4F43DD.svg?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/flastapi-%23000.svg?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Ray](https://img.shields.io/badge/ray-028CF0.svg?style=flat&logo=ray&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white)
 ![celery](https://img.shields.io/badge/celery-37814A.svg?style=flat&logo=celery&logoColor=white)
+![React](https://img.shields.io/badge/react-61DBFB.svg?style=flat&logo=react&logoColor=white)
 
 ##### `> which data-store`
 
@@ -38,6 +40,7 @@ at Harvard.
 ##### `> which infrastructure`
 
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/gcp-232F3E.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-7B42BC.svg?style=flat&logo=Terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 
